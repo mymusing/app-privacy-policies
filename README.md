@@ -7,7 +7,6 @@ We are committed to protecting your privacy and ensuring transparency in how we 
 ## Our Applications
 
 * [WordWise: Vocabulary Builder](wordwise.md)
-* *(Future App Name Here)*
 
 ---
 
